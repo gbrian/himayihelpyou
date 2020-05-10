@@ -1,6 +1,7 @@
-# ![logo](resources/logosmall.png) HI, May I Help You?
+![Logo](resources/logo2.png)
 
-HI stands for Human Intelligence. H I May I Help You is a Video-Call plugin for your website where you can offer human assistance to your visitors.
+# **HI** is for Human Intelligence
+**HI, May I Help You?** is a Video-Call plugin for your website where you can offer human assistance to your visitors.
 
 ![screenshot1](resources/screenshot1.png)
 
@@ -8,6 +9,12 @@ HI stands for Human Intelligence. H I May I Help You is a Video-Call plugin for 
 # Beyond video calls and Call Centers
 
 With HI you can help your customers by navigating together your website, showing them where to go, what to click.
+
+
+# A real shopping experience
+<img src="resources/Ecommerce_670.jpg" width="100" style="margin-left:50%"/> 
+
+With **Hi, may i help you?** your customer will enjoy as it was at the shop with you.
 
 # Features
 
@@ -32,3 +39,7 @@ Easy integration with your website
     <div class="himayihelpyou"/>
 
 ![integrate](resources/screenshot3.png)
+
+
+### Credits
+<a href="https://www.vecteezy.com/free-vector/cart-icon">Cart Icon Vectors by Vecteezy</a>
