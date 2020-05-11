@@ -1,0 +1,3 @@
+[submodule "neko"]
+	path = neko
+	url = git@github.com:gbrian/neko.git
