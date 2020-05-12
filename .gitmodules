@@ -1,3 +1,6 @@
 [submodule "neko"]
 	path = neko
 	url = git@github.com:gbrian/neko.git
+[submodule "apprtc"]
+	path = apprtc
+	url = git@github.com:gbrian/apprtc.git
