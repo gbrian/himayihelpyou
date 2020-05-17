@@ -4,3 +4,6 @@
 [submodule "apprtc"]
 	path = apprtc
 	url = git@github.com:gbrian/apprtc.git
+[submodule "nodejs-videochat"]
+	path = nodejs-videochat
+	url = git@github.com:gbrian/nodejs-videochat.git

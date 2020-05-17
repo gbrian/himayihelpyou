@@ -40,6 +40,9 @@ Easy integration with your website
 
 ![integrate](resources/screenshot3.png)
 
+# Sponsors
+
+
 
 ### Credits
 <a href="https://www.vecteezy.com/free-vector/cart-icon">Cart Icon Vectors by Vecteezy</a>
